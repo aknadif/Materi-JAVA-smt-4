@@ -22,7 +22,7 @@ class instanceinitializerblock extends A {
     }
 
     public static void main(String args[]) {
-        instanceinitializerblock b1 = new instanceinitializerblock();
-        instanceinitializerblock b2 = new instanceinitializerblock(10);
+        // instanceinitializerblock b1 = new instanceinitializerblock();
+        // instanceinitializerblock b2 = new instanceinitializerblock(10);
     }
 }
